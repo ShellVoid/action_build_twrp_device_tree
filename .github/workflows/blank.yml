@@ -1,5 +1,5 @@
 name: Generate TWRP Device Tree
-
+permissions: write-all
 on:
   workflow_dispatch:
     inputs:
